@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.mellda.mixins",
+  "refmap": "mixins.AutoLogPlugin.refmap.json",
+  "client": [
+    "gui.MixinGuiNewChat"
+  ]
+}

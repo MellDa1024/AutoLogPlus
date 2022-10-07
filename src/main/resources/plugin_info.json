@@ -1,11 +1,11 @@
 {
-  "name": "ExamplePlugin",
-  "version": "1.1",
-  "description": "Example implementation of a plugin for Lambda.",
-  "url": "https://github.com/lambda-client/ExamplePlugin",
-  "authors": [ "me", "you" ],
-  "main_class": "com.lambda.ExamplePlugin",
+  "name": "AutoLogPlus",
+  "version": "1.0",
+  "description": "Improved AutoLog with Discord.",
+  "url": "https://github.com/MellDa1024/AutoLogPlus",
+  "authors": [ "MellDa" ],
+  "main_class": "com.mellda.AutoLogPlugin",
   "min_api_version": "3.2",
-  "mixins": [ "mixins.ExamplePlugin.json" ],
+  "mixins": [ "mixins.AutoLogPlugin.json" ],
   "required_plugins": []
 }
